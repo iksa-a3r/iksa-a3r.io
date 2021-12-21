@@ -1,0 +1,46 @@
+body{
+    background-color: coral;
+}
+.circle{
+    background-color: blueviolet;
+    height: 500px;
+    width: 500px;
+    border-radius: 250px;
+    border-style: solid;
+    border-color: crimson;
+
+}
+.avt{
+   
+    margin: 10px;
+    margin-top: 10px;
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    border-style: solid;
+    border-color: crimson;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+}
+li{
+    display: flex;
+    font-size: medium;
+    text-align: none;
+}
+
+
+.square{
+    background-color: rgb(172, 192, 117);
+    height: 500px;
+    width: 500px;
+}
+.rect{
+    background-color: crimson;
+    height: 500px;
+    width: 750px;
+}
+
+
